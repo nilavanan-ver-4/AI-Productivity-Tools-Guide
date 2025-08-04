@@ -97,9 +97,3 @@
 - [Microsoft Designer](https://designer.microsoft.com/)
 - [Uizard](https://uizard.io/)
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For questions or suggestions, open an issue on [GitHub Issues]([Your-GitHub-Link-Here]/issues).
