@@ -1,7 +1,3 @@
-# AI Productivity Tools Guide
-
-## Description
-This repository provides a comprehensive list of AI-powered productivity tools across various categories such as Chatbots, Presentation, Coding Assistance, Email Assistance, and more. It aims to help users discover and utilize the best AI tools to enhance productivity.
 
 ## Categories and Tools
 ### Chatbots
@@ -101,19 +97,6 @@ This repository provides a comprehensive list of AI-powered productivity tools a
 - [Microsoft Designer](https://designer.microsoft.com/)
 - [Uizard](https://uizard.io/)
 
-## Installation
-No installation is required. Simply explore the links above to access the tools.
-
-## Usage
-Visit the respective websites or platforms linked above to use these AI productivity tools based on your needs.
-
-## Contributing
-Feel free to contribute by adding new tools, updating links, or improving documentation:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Add new tool'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a Pull Request
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
